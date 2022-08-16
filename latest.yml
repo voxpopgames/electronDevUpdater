@@ -1,0 +1,16 @@
+version: 3.2.9
+files:
+  - url: VoxPopInstaller.exe
+    sha512: 0HzL5mzW6yRY3bK7jGaW4Jw21NBcAPe+AL+GgAnltyWQwd5ilFCQbhJYb4Rn6aWVQycN7khMZ0JDxs7huq9AwA==
+    size: 78978904
+path: VoxPopInstaller.exe
+sha512: 0HzL5mzW6yRY3bK7jGaW4Jw21NBcAPe+AL+GgAnltyWQwd5ilFCQbhJYb4Rn6aWVQycN7khMZ0JDxs7huq9AwA==
+releaseNotes: |
+  Testing Format For New Release
+
+  New Features:
+
+  New This
+  New That
+  And something new here as well
+releaseDate: '2022-06-14T15:42:07.291Z'
